@@ -1,7 +1,9 @@
 # business-card-example
 Just practicing how to create a business card 
 
-<--! html-->
+<!DOCTYPE html>
+
+<--! sub-sections-->
 <div class="container">
   <h1 id="name">Patty Cake</h1>
   <h2 id="job">CakeShop</h2>
